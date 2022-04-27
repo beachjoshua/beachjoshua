@@ -1,0 +1,2 @@
+- Hi, I’m @beachjoshua
+- Im interested in AI and Machine Learning
